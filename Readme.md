@@ -27,7 +27,7 @@ IPSW.me example
 
 ![alt text](images/1.png)
 
-![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/images/2.png)
+![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/Images/2.png)
 
 ![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/images/3.png)
 
