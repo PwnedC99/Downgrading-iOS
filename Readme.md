@@ -56,8 +56,7 @@ IPSW.me example
  while holding press on the 'Restore iPhone/iPad/iPod' Key
 
 ```
-<![alt text] img width="510" alt="5" src="https://user-images.githubusercontent.com/25849486/53672678-dd23bd00-3c83-11e9-90b4-bc127db10206.png">
-
+<![alt text](https://user-images.githubusercontent.com/25849486/53672678-dd23bd00-3c83-11e9-90b4-bc127db10206.png)
 ```
 5. Click on Restore
 
