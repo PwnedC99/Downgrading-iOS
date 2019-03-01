@@ -1,6 +1,8 @@
 # Downgrading iOS Firmwares
 
-If you don't know how to downgrade Firmwares (Beta too) then this is for you.
+If you don't know how to downgrade Firmwares (Beta too) then this is for you
+Disclaimer: Make sure the by you chosen iOS Firmware is still signed by Apple!
+This method does not work with unsigned iOS Versions at all.
 
 ## Other requirements
 
@@ -23,14 +25,31 @@ Open one of the links above and choose the device and iOS Version you want.
 ```
 IPSW.me example
 
-![alt text](https://heise.cloudimg.io/width/1496/q75.png-lossy-75.webp-lossy-75.foil1/_www-heise-de_/download/media/itunes-18786/itunes-127-1_1-1-30.png)
-
-![alt text](http://url/to/img.png)
-
-![alt text](http://url/to/img.png)
-
-![alt text](http://url/to/img.png)
+1.
+2.
+3.
+4.
 
 ```
 
-Fun Fact: 'IPSW and IPA are two different things, please don't call IPSWs IPA'
+### Fun Fact: 'IPSW and IPA are two different things, iOS Firmwares aren't called iPA'
+
+## 2. Specifying the IPSW (Firmware) in iTunes
+
+1. Open Up iTunes and Connect your device to your PC.
+2. Unlock your Phone and click on "Trust".
+3. In the top left Corner next to "Music" your Phone Icon will show up, click on it.
+
+4. Hold the 'Option' Key (on MacOS) or the 'Shift' Key (on Windows),
+ while holding press on the 'Restore iPhone/iPad/iPod' Key
+
+```
+5. Picture
+
+```
+5. Click on Restore
+
+## 3. Waiting, Waiting and more Waiting
+
+If you've done everything correctly then you should be on the iOS Version you chose.
+If the restore failed, chances are high that the by you specified iOS Version isn't signed anymore by Apple.
