@@ -37,19 +37,20 @@ IPSW.me example
 ### Fun Fact: 'IPSW and IPA are two different things, iOS Firmwares aren't called iPA'
 
 ## 2. Specifying the IPSW (Firmware) in iTunes
-
+```
 1. Open Up iTunes and Connect your Device to your PC.
 2. Unlock your Device and click on "Trust".
 3. In the top left Corner next to "Music" your Device Icon will show up, click on it.
 
 4. Hold the 'Option' Key (on MacOS) or the 'Shift' Key (on Windows),
  while holding press on the 'Restore iPhone/iPad/iPod' Key
-
+```
 ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-
+```
 5. Click on Restore
-
+```
 ## 3. Profit.
-
+```
 If you've done everything correctly then you should be on the iOS Version you chose.
 If the restore failed, chances are high that the by you specified iOS Version isn't signed anymore by Apple.
+```
