@@ -22,7 +22,6 @@ https://www.apple.com/de/itunes/download/ (iTunes for Windows)
 
 Open one of the links above and choose the device and iOS Version you want.
 
-```
 IPSW.me example
 
 ![alt text](images/1.png)
@@ -33,7 +32,6 @@ IPSW.me example
 
 ![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/images/4.png)
 
-```
 
 ### Fun Fact: 'IPSW and IPA are two different things, iOS Firmwares aren't called iPA'
 
