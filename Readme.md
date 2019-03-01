@@ -23,7 +23,7 @@ Open one of the links above and choose the device and iOS Version you want.
 ```
 IPSW.me example
 
-![alt text](http://url/to/img.png)
+![alt text](https://heise.cloudimg.io/width/1496/q75.png-lossy-75.webp-lossy-75.foil1/_www-heise-de_/download/media/itunes-18786/itunes-127-1_1-1-30.png)
 
 ![alt text](http://url/to/img.png)
 
