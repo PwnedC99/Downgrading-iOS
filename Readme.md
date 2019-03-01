@@ -5,18 +5,19 @@ Disclaimer: Make sure the by you chosen iOS Firmware is still signed by Apple!
 This method does not work with unsigned iOS Versions at all.
 
 ## Other requirements
-
+```
 A computer (Mac or Windows both are the same)
 iTunes must be installed (already installed on MacOS)
+```
 
 ## Needed links
-
+```
 https://ipsw.me (for non-beta Firmware)
 
 https://www.theiphonewiki.com/wiki/Beta_Firmware (beta Firmware)
 
 https://www.apple.com/de/itunes/download/ (iTunes for Windows)
-
+```
 
 ## 1. Downloading the IPSW
 
@@ -44,9 +45,8 @@ IPSW.me example
 4. Hold the 'Option' Key (on MacOS) or the 'Shift' Key (on Windows),
  while holding press on the 'Restore iPhone/iPad/iPod' Key
 
-```
 ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-```
+
 5. Click on Restore
 
 ## 3. Profit.
