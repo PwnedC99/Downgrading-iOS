@@ -25,22 +25,13 @@ Open one of the links above and choose the device and iOS Version you want.
 ```
 IPSW.me example
 
-<p align="center">
-<img width="412" alt="1" src="https://user-images.githubusercontent.com/25849486/53672650-be252b00-3c83-11e9-9910-28cb1f532faa.png">
-</p>
+![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/images/1.png)
 
-<p align="center">
-<img width="725" alt="2" src="https://user-images.githubusercontent.com/25849486/53672657-c2514880-3c83-11e9-9f66-3cc14c604a38.png">
-</p>
+![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/images/2.png)
 
-<p align="center">
-<img width="796" alt="3" src="https://user-images.githubusercontent.com/25849486/53672658-c41b0c00-3c83-11e9-8958-e20479724f15.png">
-</p>
+![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/images/3.png)
 
-<p align="center">
-<img width="815" alt="4" src="https://user-images.githubusercontent.com/25849486/53672661-c5e4cf80-3c83-11e9-9959-8c6c169febbc.png">
-</p>
-
+![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/images/4.png)
 
 ```
 
@@ -56,7 +47,7 @@ IPSW.me example
  while holding press on the 'Restore iPhone/iPad/iPod' Key
 
 ```
-<![alt text](https://user-images.githubusercontent.com/25849486/53672678-dd23bd00-3c83-11e9-90b4-bc127db10206.png)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 ```
 5. Click on Restore
 
