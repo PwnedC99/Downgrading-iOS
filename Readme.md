@@ -24,15 +24,15 @@ https://www.apple.com/de/itunes/download/ (iTunes for Windows)
 Open one of the links above and choose the device and iOS Version you want.
 
 IPSW.me example
-
+-------------------------------------------------------------------------------------------
 ![alt text](Images/1.png)
-
+-------------------------------------------------------------------------------------------
 ![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/Images/2.png)
-
+-------------------------------------------------------------------------------------------
 ![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/Images/3.png)
-
+-------------------------------------------------------------------------------------------
 ![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/Images/4.png)
-
+-------------------------------------------------------------------------------------------
 
 ### Fun Fact: 'IPSW and IPA are two different things, iOS Firmwares aren't called iPA'
 
@@ -41,7 +41,6 @@ IPSW.me example
 1. Open Up iTunes and Connect your Device to your PC.
 2. Unlock your Device and click on "Trust".
 3. In the top left Corner next to "Music" your Device Icon will show up, click on it.
-
 4. Hold the 'Option' Key (on MacOS) or the 'Shift' Key (on Windows),
  while holding press on the 'Restore iPhone/iPad/iPod' Key
 ```
@@ -53,5 +52,6 @@ IPSW.me example
 ## 3. Profit.
 ```
 If you've done everything correctly then you should be on the iOS Version you chose.
-If the restore failed, chances are high that the by you specified iOS Version isn't signed anymore by Apple.
+If the restore failed, chances are high that the by you
+specified iOS Version isn't signed anymore by Apple.
 ```
