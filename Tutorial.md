@@ -10,6 +10,7 @@ iTunes must be installed (already installed on MacOS)
 ## Needed links
 
 https://ipsw.me (for non-beta Firmware)
+
 https://www.theiphonewiki.com/wiki/Beta_Firmware (beta Firmware)
 https://www.apple.com/de/itunes/download/ (iTunes for Windows)
 
