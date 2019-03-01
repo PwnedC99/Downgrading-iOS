@@ -25,13 +25,13 @@ Open one of the links above and choose the device and iOS Version you want.
 
 IPSW.me example
 
-![alt text](images/1.png)
+![alt text](Images/1.png)
 
 ![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/Images/2.png)
 
-![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/images/3.png)
+![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/Images/3.png)
 
-![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/images/4.png)
+![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/Images/4.png)
 
 
 ### Fun Fact: 'IPSW and IPA are two different things, iOS Firmwares aren't called iPA'
@@ -45,7 +45,8 @@ IPSW.me example
 4. Hold the 'Option' Key (on MacOS) or the 'Shift' Key (on Windows),
  while holding press on the 'Restore iPhone/iPad/iPod' Key
 ```
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/Images/5.png)
+
 ```
 5. Click on Restore
 ```
