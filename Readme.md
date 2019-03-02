@@ -25,7 +25,7 @@ Open one of the links above and choose the device and iOS Version you want.
 
 IPSW.me example
 -------------------------------------------------------------------------------------------
-![alt text](Images/1.png)
+<img width="412" alt="1" src="https://user-images.githubusercontent.com/25849486/53673233-9f746380-3c86-11e9-9ac1-5e77f31eb05f.png">
 -------------------------------------------------------------------------------------------
 ![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/Images/2.png)
 -------------------------------------------------------------------------------------------
