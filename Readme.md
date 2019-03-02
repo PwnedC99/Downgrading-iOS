@@ -27,11 +27,11 @@ IPSW.me example
 -------------------------------------------------------------------------------------------
 <img width="412" alt="1" src="https://user-images.githubusercontent.com/25849486/53673233-9f746380-3c86-11e9-9ac1-5e77f31eb05f.png">
 -------------------------------------------------------------------------------------------
-![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/Images/2.png)
+<img width="725" alt="2" src="https://user-images.githubusercontent.com/25849486/53673234-9f746380-3c86-11e9-8815-d60dc351064f.png">
 -------------------------------------------------------------------------------------------
-![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/Images/3.png)
+<img width="796" alt="3" src="https://user-images.githubusercontent.com/25849486/53673235-a00cfa00-3c86-11e9-97f4-11420405ea3b.png">
 -------------------------------------------------------------------------------------------
-![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/Images/4.png)
+<img width="815" alt="4" src="https://user-images.githubusercontent.com/25849486/53673236-a00cfa00-3c86-11e9-8f0c-6c3cb35a9c6a.png">
 -------------------------------------------------------------------------------------------
 
 ### Fun Fact: 'IPSW and IPA are two different things, iOS Firmwares aren't called iPA'
@@ -44,7 +44,7 @@ IPSW.me example
 4. Hold the 'Option' Key (on MacOS) or the 'Shift' Key (on Windows),
  while holding press on the 'Restore iPhone/iPad/iPod' Key
 ```
-![alt text](https://raw.githubusercontent.com/PwnedC99/Downgrading-iOS/master/Images/5.png)
+<img width="510" alt="5" src="https://user-images.githubusercontent.com/25849486/53673237-a00cfa00-3c86-11e9-9d9c-2a6ee2b40272.png">
 
 ```
 5. Click on Restore
