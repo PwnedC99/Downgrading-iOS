@@ -2,8 +2,8 @@
 
 If you don't know how to downgrade Firmwares (Beta too) then this is for you!
 
-###Disclaimer: Make sure the by you chosen iOS Firmware is still signed by Apple!
-###This method does not work with unsigned iOS Versions at all.
+### Disclaimer: Make sure the by you chosen iOS Firmware is still signed by Apple!
+### This method does not work with unsigned iOS Versions at all.
 
 ## Requirements
 ```
