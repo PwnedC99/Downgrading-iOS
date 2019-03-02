@@ -53,13 +53,16 @@ IPSW = "iPhone Software"
 
 ```
 5. A Window will pop up, search for your downloaded iPSW file and chose it.
-6. Click on 'Restore'
+6. Press "Restore"
 ```
 ## 3. Profit.
 ```
-When your Device boots up again and you've done everything correctly then you should be on the iOS Version you chose.
+When your Device boots up again and you've done everything correctly,
+you should be on the iOS Version you chose.
+
 If the restore failed, chances are high that the by you
 specified iOS Version isn't signed anymore by Apple.
+
 I hope this Tutorial helped you out :)
 ```
 
