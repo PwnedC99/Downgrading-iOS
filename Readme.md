@@ -58,5 +58,5 @@ specified iOS Version isn't signed anymore by Apple.
 
 ## 4. ???
 If you've trouble when doing the steps above please make sure to open an issue on Github so I can help you out.
-
+If you want to help me out you can donate me per Paypal by clicking the button below.
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/seyeddev)
