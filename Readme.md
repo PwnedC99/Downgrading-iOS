@@ -59,4 +59,4 @@ specified iOS Version isn't signed anymore by Apple.
 ## 4. ???
 If you've trouble when doing the steps above please make sure to open an issue on Github so I can help you out.
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RGQ8NSYPA59FL)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/seyeddev)
