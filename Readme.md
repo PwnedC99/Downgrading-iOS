@@ -47,7 +47,7 @@ IPSW.me example
 <img width="510" alt="5" src="https://user-images.githubusercontent.com/25849486/53673237-a00cfa00-3c86-11e9-9d9c-2a6ee2b40272.png">
 
 ```
-5. Click on Restore
+5. Click on 'Restore'
 ```
 ## 3. Profit.
 ```
